@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FireBaseAuthDemo</string>
+    <string name="hint_password">Ingrese su contraseña...</string>
+    <string name="hint_email">Ingrese su corro electrónico...</string>
+    <string name="textRegister">Registrarse</string>
+    <string name="textlogin">Login</string>
+    <string name="textlogout">Logout</string>
+    <string name="hintNombreCompleto">Ingrese su nombre completo</string>
+    <string name="textGuardar">Guardar</string>
+    <string name="hintDireccion">Ingrese dirección</string>
+
+
+    <string name="content_description">Content Description</string>
+    <string name="countdown_note">Thanks for checking out the Countdown Timer.\n\nThis timer is
+		ideal for use in counting down an event start date, down to the second!!  Feel free to
+		use it in your app.</string>
+    <string name="days">days</string>
+    <string name="hours">hrs</string>
+    <string name="minutes">mins</string>
+    <string name="seconds">secs</string>
+    <string name="title_activity_countdown_timer">CountdownTimerActivity</string>
+    <string name="title_activity_listado">listado</string>
+</resources>

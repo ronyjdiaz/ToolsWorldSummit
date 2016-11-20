@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619281589442",
+    "firebase_url": "https://myfirebaseauhtapp.firebaseio.com",
+    "project_id": "myfirebaseauhtapp",
+    "storage_bucket": "myfirebaseauhtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619281589442:android:ffb06f2b05301ea7",
+        "android_client_info": {
+          "package_name": "social.rony.com.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619281589442-l93r0nq44bc21tiq8uancubfio5g1h4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjiMalax_oiH2Y0d26asFAROMGZIfGib0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\rony_2\\Documents\\AndroidProjects\\FireBaseAuthDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\rony_2\\Documents\\AndroidProjects\\FireBaseAuthDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rony_2\\Documents\\AndroidProjects\\ToolsWorldSummit\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\rony_2\\Documents\\AndroidProjects\\ToolsWorldSummit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
