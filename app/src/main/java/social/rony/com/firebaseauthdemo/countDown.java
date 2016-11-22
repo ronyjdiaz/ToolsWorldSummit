@@ -45,7 +45,7 @@ public class countDown extends AppCompatActivity {
     int hour = 4;
     int minute = 0;
     int second = 0;
-    int monthDay = 28;
+    int monthDay = 12;
     // month is zero based...7 == August
     int month = FEBRUARY;
     int year = 2017;
