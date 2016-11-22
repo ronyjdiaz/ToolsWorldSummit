@@ -5,8 +5,9 @@ android {
     buildToolsVersion "24.0.2"
     defaultConfig {
         applicationId "social.rony.com.firebaseauthdemo"
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 23
+
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -17,6 +18,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+
+    useLibrary 'org.apache.http.legacy'
 }
 
 dependencies {
@@ -39,5 +43,7 @@ dependencies {
     compile 'com.android.support:design:23.4.0'
     testCompile 'junit:junit:4.12'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+
+
 }
 apply plugin: 'com.google.gms.google-services'
